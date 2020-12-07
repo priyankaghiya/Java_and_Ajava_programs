@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Feb/2020:19:26:03 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:19:26:05 +0530] "GET /MarkSheetUsingWebXml/index.jsp HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:19:26:16 +0530] "GET /MarkSheetUsingWebXml/hello?t1=90&t2=95&t3=99&sub=RESULT HTTP/1.1" 200 40
+127.0.0.1 - - [26/Feb/2020:19:43:25 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:19:43:26 +0530] "GET /MarkSheetUsingWebXml/index.jsp HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:19:43:36 +0530] "GET /MarkSheetUsingWebXml/hello?t1=90&t2=90&t3=90&sub=RESULT HTTP/1.1" 200 495
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:19:43:46 +0530] "GET /MarkSheetUsingWebXml/msu?tx=2&tn=5&sub=FIND+POWER HTTP/1.1" 200 17
+127.0.0.1 - - [26/Feb/2020:20:09:07 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:20:09:08 +0530] "GET /MarkSheetUsingWebXml/index.jsp HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:20:09:25 +0530] "GET /MarkSheetUsingWebXml/hello?t1=90&t2=90&t3=90&sub=RESULT HTTP/1.1" 200 540
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:20:09:42 +0530] "GET /MarkSheetUsingWebXml/msu?tx=3&tn=2&sub=FIND+POWER HTTP/1.1" 200 64

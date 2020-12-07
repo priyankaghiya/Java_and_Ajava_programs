@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Mar/2020:20:15:04 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:15:06 +0530] "GET /LoginDatabaseProject/UpdateServlet HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:17:09 +0530] "GET /LoginDatabaseProject/UpdateServlet HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2020:20:21:58 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:21:59 +0530] "GET /LoginDatabaseProject/index.html HTTP/1.1" 200 391
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:22:38 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=avani&tpa=ad&sub=SIGN+UP HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2020:20:23:42 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:23:50 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=avani&tpa=ad&sub=SIGN+UP HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:24:04 +0530] "GET /LoginDatabaseProject/ViewServlet?sub=VIEW HTTP/1.1" 200 1198
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:24:09 +0530] "GET /LoginDatabaseProject/UpdateServlet?sub=UPDATE HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:20:24:22 +0530] "GET /LoginDatabaseProject/UpdateServlet?t1=avani&t2=da&sub=SUBMIT HTTP/1.1" 200 355

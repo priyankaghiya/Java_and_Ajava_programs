@@ -1,0 +1,6 @@
+127.0.0.1 - - [12/Mar/2020:19:49:19 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:19:49:21 +0530] "GET /FilterCookieProject/index.jsp HTTP/1.1" 200 1054
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:19:49:38 +0530] "GET /FilterCookieProject/LoginServlet?tus=COMPACT&tpa=JAVA&sub=LOGIN HTTP/1.1" 200 875
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:19:49:45 +0530] "GET /FilterCookieProject/fact?tno=4&sub=FIND+FACT HTTP/1.1" 200 828
+127.0.0.1 - - [12/Mar/2020:21:26:04 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Mar/2020:21:26:08 +0530] "GET /JstlELProject/readdatabase.jsp HTTP/1.1" 500 4573

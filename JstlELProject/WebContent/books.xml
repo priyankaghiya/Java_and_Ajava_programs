@@ -1,0 +1,46 @@
+<library>
+	<book>
+		<name> cpp </name>
+		<author> bala </author>
+		<price> 200 </price>
+	</book>
+	<book>
+		<name> java </name>
+		<author> herbert </author>
+		<price> 100 </price>
+	</book>
+	<book>
+		<name> c++ </name>
+		<author> abc </author>
+		<price> 50 </price>
+	</book>
+	<book>
+		<name> eee </name>
+		<author> darshan </author>
+		<price> 200 </price>
+	</book>
+	<book>
+		<name> maths </name>
+		<author> kachot </author>
+		<price> 200 </price>
+	</book>
+	<book>
+		<name> EG </name>
+		<author> chamak challo </author>
+		<price> 100 </price>
+	</book>
+	<book>
+		<name> ajava </name>
+		<author> albert </author>
+		<price> 60 </price>
+	</book>
+	<book>
+		<name> se </name>
+		<author> qwwe  </author>
+		<price> 150 </price>
+	</book>
+
+
+
+
+</library>

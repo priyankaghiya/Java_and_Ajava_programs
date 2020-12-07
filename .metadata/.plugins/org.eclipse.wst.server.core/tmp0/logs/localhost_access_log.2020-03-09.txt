@@ -1,0 +1,3 @@
+127.0.0.1 - - [09/Mar/2020:18:36:10 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [09/Mar/2020:18:36:14 +0530] "GET /JfFirstProject/faces/index.jsp HTTP/1.1" 200 6009
+0:0:0:0:0:0:0:1 - - [09/Mar/2020:18:36:25 +0530] "POST /JfFirstProject/faces/index.jsp;jsessionid=080DD0F8B604D0A8D6C6124B22575DC7 HTTP/1.1" 200 357

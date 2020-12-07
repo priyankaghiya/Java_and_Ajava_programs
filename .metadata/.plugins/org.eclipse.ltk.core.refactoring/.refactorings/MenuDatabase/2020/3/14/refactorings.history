@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Capture.JPG&apos; to &apos;ImageUsingjdbc/src/newimages&apos;&#x0D;&#x0A;- Original project: &apos;MenuDatabase&apos;&#x0D;&#x0A;- Destination element: &apos;ImageUsingjdbc/src/newimages&apos;&#x0D;&#x0A;- Original element: &apos;Capture.JPG&apos;" description="Copy file" destination="=ImageUsingjdbc/src&lt;newimages" element1="src/images/Capture.JPG" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1585466530576" units="0" version="1.0"/>
+</session>

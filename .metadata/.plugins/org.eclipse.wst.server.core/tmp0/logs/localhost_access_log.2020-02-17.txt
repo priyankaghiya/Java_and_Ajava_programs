@@ -1,0 +1,15 @@
+127.0.0.1 - - [17/Feb/2020:19:58:02 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:19:58:03 +0530] "GET /LoginDatabaseProject/index.html HTTP/1.1" 200 391
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:19:58:16 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=Priyanka&tpa=piyu&sub=LOGIN HTTP/1.1" 200 260
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:19:59:17 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=priyu&tpa=pi&sub=LOGIN HTTP/1.1" 200 257
+127.0.0.1 - - [17/Feb/2020:20:18:27 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:18:28 +0530] "GET /LoginDatabaseProject/LoginServlet HTTP/1.1" 500 1355
+127.0.0.1 - - [17/Feb/2020:20:20:16 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:20:17 +0530] "GET /LoginDatabaseProject/index.html HTTP/1.1" 200 391
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:20:40 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=sachin&tpa=sachu&sub=SIGN+UP HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2020:20:23:03 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:23:25 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=rupal&tpa=mummy&sub=SIGN+UP HTTP/1.1" 200 260
+127.0.0.1 - - [17/Feb/2020:20:32:30 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:32:30 +0530] "GET /LoginDatabaseProject/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:33:06 +0530] "GET /LoginDatabaseProject/LoginServlet?tus=amit&tpa=daddy&sub=SIGN+UP HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:20:33:08 +0530] "GET /LoginDatabaseProject/ViewServlet?sub=VIEW HTTP/1.1" 200 -

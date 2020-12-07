@@ -1,0 +1,9 @@
+127.0.0.1 - - [12/Feb/2020:19:49:52 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:19:49:53 +0530] "GET /ReverseServletProject/index.html HTTP/1.1" 200 298
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:19:50:09 +0530] "GET /ReverseServletProject/ReverseServlet?t1=Hello&sub=REVERSE HTTP/1.1" 200 32
+127.0.0.1 - - [12/Feb/2020:20:02:14 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:20:02:15 +0530] "GET /lowerUpperServlet/index.html HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:20:02:28 +0530] "GET /lowerUpperServlet/UpperServlet?b1=Yuhuuuuuu&sub=CONVERT HTTP/1.1" 200 35
+127.0.0.1 - - [12/Feb/2020:20:21:44 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:20:21:45 +0530] "GET /SumServletProject/index.html HTTP/1.1" 200 360
+0:0:0:0:0:0:0:1 - - [12/Feb/2020:20:22:08 +0530] "GET /SumServletProject/SumServlet?t1=1&t1=2&t1=3&t1=4&t1=5&t1=6&t1=7&t1=8&t1=10&t1=9&sub=ADD%22 HTTP/1.1" 200 13
